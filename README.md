@@ -5,4 +5,4 @@
 - 😄 Pronouns: ... She/Her
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielawysopal1&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielawysopal1&layout=compact&theme=dark)
